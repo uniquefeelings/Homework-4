@@ -20,7 +20,7 @@ Include any source code that you used to generate your data as well with your su
 
 I should be able to run your schema.sql file, then your data.sql file and have a complete database populated with data.  Test this before you submit!  Rename your original database so you can save it, then use your scripts to create a new database to test your scripts.
 
-###Part 1 – Create your data for your tables.
+##Part 1 – Create your data for your tables.
 The following is a list of tables you should have created in HW4.  The Primary Keys are underlined bold, foreign keys are italics.
 
 customer(customer_id, first_name, last_name, email, phone, address_id)
@@ -52,10 +52,10 @@ order_item
 product_warhouse
 You can deviate from this order somewhat if you understand the implications.
 
-###Part 2 – Create a PDF Report
+##Part 2 – Create a PDF Report
 Create and submit a PDF report that briefly describes how you generated your data.  This should include anything you feel that you did that was clever, as well as how you overcame any obstacles in this project.  Would you do things differently if you had to do this assignment again?  What format did you decide to use for input text files (if you used them)?  How did you input your values to generate random data?  Create a YouTube video to present your homework’s completeness and correctness.
 
-###Part 3 – Deliverables for this assignment:
+##Part 3 – Deliverables for this assignment:
 schema.sql
 data.sql
 any php files used to generate random data
