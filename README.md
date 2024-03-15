@@ -30,6 +30,7 @@ The following is a list of tables you should have created in HW4.  The Primary K
 5. address(**address_id**, street, city, state, zip)
 6. warehouse(**warehouse_id**, name, _address_id_)
 7. product_warehouse(_product_id_, _warehouse_id_)
+
 For each table, here is how many records you need to generate.
 
 1. customer – 100
